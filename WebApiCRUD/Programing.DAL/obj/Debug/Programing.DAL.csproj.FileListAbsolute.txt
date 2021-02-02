@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\WebApiCRUD\Programing.DAL\bin\Debug\Programing.DAL.dll.config
+C:\Users\lenovo\source\repos\WebApiCRUD\Programing.DAL\bin\Debug\Programing.DAL.dll
+C:\Users\lenovo\source\repos\WebApiCRUD\Programing.DAL\bin\Debug\Programing.DAL.pdb
+C:\Users\lenovo\source\repos\WebApiCRUD\Programing.DAL\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\source\repos\WebApiCRUD\Programing.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\source\repos\WebApiCRUD\Programing.DAL\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\source\repos\WebApiCRUD\Programing.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\source\repos\WebApiCRUD\Programing.DAL\obj\Debug\Programing.DAL.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\WebApiCRUD\Programing.DAL\obj\Debug\Programing.DAL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WebApiCRUD\Programing.DAL\obj\Debug\Programing.DAL.csproj.CopyComplete
+C:\Users\lenovo\source\repos\WebApiCRUD\Programing.DAL\obj\Debug\Programing.DAL.dll
+C:\Users\lenovo\source\repos\WebApiCRUD\Programing.DAL\obj\Debug\Programing.DAL.pdb
